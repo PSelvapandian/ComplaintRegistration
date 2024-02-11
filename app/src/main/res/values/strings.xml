@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Complaint Registration</string>
+    <string name="complaint_registration_system">Online Complaint System</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="register">Register</string>
+    <string name="you_don_t_have_an_account">You don\'t have an account?</string>
+    <string name="register1"><u>Register</u></string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="eg_coimbatore">Eg : Coimbatore</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="_98765_43210">98765 43210</string>
+    <string name="dd_mm_yyyy">DD-MM-YYYY</string>
+    <string name="something_gmail_com">something@gmail.com</string>
+    <string name="eg_nickolas">Eg: Nickolas</string>
+    <string name="login1"><u>Login</u></string>
+    <string name="hello">Hello</string>
+    <string name="home_content">Online Complaint Registration and Management system for street light, water pipe leakage, rain water drainage, road.</string>
+    <string name="register_your_complaint_here_it_s_fixed_soon">Register your complaint here, it\'s fixed soon.</string>
+    <string name="register_complaints">Register Complaints</string>
+    <string name="complaint_status">Complaint Status</string>
+    <string name="view_your_complaint_status_here_to_verify">View your complaint status here to verify.</string>
+    <string name="feedback">Feedback</string>
+    <string name="your_feedback_is_important_to_us_please_share_your_thoughts_here">Your feedback is important to us. Please share your thoughts here.</string>
+    <string name="my_profile">My profile</string>
+    <string name="view_your_profile_details_here">View your profile details here.</string>
+    <string name="submit">Submit</string>
+    <string name="landmark">Landmark</string>
+    <string name="complaint_type">Complaint Type</string>
+    <string name="complaint">Complaint</string>
+    <string name="type_your_complaint_here">Type your complaint here...</string>
+    <string name="type_your_feedback_here">Type your feedback here...</string>
+    <string name="update">Update</string>
+    <string name="reason">Reason</string>
+    <string name="update_status">Update Status</string>
+    <string name="view_feedback">View Feedback</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="transgender">TransGender</string>
+    <string name="you_don_t_have_any_complaint">You don\'t have any complaint</string>
+    <string name="you_don_t_have_any_feedback">You don\'t have any feedback</string>
+    <string name="name_colon">Name :</string>
+    <string name="email_colon">Email :</string>
+    <string name="mobile_colon">Mobile :</string>
+    <string name="address_colon">Address :</string>
+    <string name="create_officer">Create Officer</string>
+    <string name="create_officer_district_wise_to_maintain_all_the_complaints">Create officer district wise to maintain all the complaints</string>
+    <string name="view_all_the_complaints_and_their_status">View all the complaints and their status</string>
+    <string name="view_complaints">View Complaints</string>
+    <string name="view_users">View Users</string>
+    <string name="view_all_user_details_here">View all user details here.</string>
+    <string name="others">Others</string>
+    <string name="there_is_no_user_s">There is no user\'s</string>
+    <string name="here_you_watch_some_feedbacks_from_people_s_what_they_are_thinking_about_your_work">Here you watch some feedbacks from people\'s, what they are thinking about your work.</string>
+    <string name="complaints">Complaints</string>
+    <string name="user">User</string>
+    <string name="mobile">Mobile</string>
+    <string name="view_report">View Report</string>
+    <string name="complaint_report">Complaint Report</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+
+    <string-array name="complaint_type">
+        <item>Street Light</item>
+        <item>Water Pipe Leakage</item>
+        <item>Rain Water Drainage</item>
+        <item>Road</item>
+    </string-array>
+
+    <string-array name="complaint_status">
+        <item>PENDING</item>
+        <item>IN_PROGRESS</item>
+        <item>COMPLETED</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>USER</item>
+        <item>OFFICER</item>
+        <item>ADMIN</item>
+    </string-array>
+
+    <string-array name="time_period">
+    <item>Today</item>
+    <item>Yesterday</item>
+    <item>Last 7 days</item>
+    <item>Last 1 month</item>
+    <item>Last 1 year</item>
+    </string-array>
+
+</resources>
